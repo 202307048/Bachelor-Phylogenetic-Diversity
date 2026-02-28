@@ -1,5 +1,5 @@
 Project title:  
-Effect of future endangered species extinctions on phylogenetic diversity in terrestrial and marine mammals  
+Phylogenetic diversity loss under threatened versus random extinction scenarios in terrestrial and marine mammals  
 
 Description:  
 Conatins all the raw data sourced from PHYLACINE version (1.2.1), the R scripts and the produced results, used in bachelor thesis.
