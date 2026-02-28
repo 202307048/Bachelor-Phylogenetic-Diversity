@@ -2,7 +2,7 @@ Project title:
 Effect of future extinctions of endangered species on phylogenetic diversity in terrestrial and marine mammals  
 
 Description:  
-Conatins all the raw data sourced from PHYLACINE version (1.2.1), the R scripts and the produced result, used in the bachelor thesis.
+Conatins all the raw data sourced from PHYLACINE version (1.2.1), the R scripts and the produced results, used in bachelor thesis.
 
 Common Abriviations:  
 terr - Terrestrial realm  
