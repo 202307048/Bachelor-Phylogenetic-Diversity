@@ -23,7 +23,7 @@ Phylacine 1.2.1
   (Uploaded as zip file due to GitHub upload size limitations)   
 - Traits : Contains trait data (e.g. Taxonomy, Habitat, IUCN assessment...) (.csv - columns seperated by ',')  
 
-Bassis_script.R (R script): Needed R packages, Data import and basis handling/filtering, vector creation (e.g. marine & terrestrial) 
+Bassis_script.R (R script): Needed R packages, Data import and basis handling/filtering, vector creation (e.g. marine & terrestrial)  
 Analysis_Mar.R (R script): Analysis of Marine Cells  
 Analysis_Terr.R (R script): Analysis of Terrestrial Cells  
 Figures.R (R script): Data vizualisation 
